@@ -1,3 +1,4 @@
+ <title>叔音OKATU的个人攻略杂谈站</title>
 <h1>
 	叔音OKATU的个人攻略杂谈站
 </h1>
